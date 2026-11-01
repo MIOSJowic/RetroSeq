@@ -8,7 +8,7 @@ RetroSeq includes **Kosmische**, a Berlin School sequence generator (press **K**
 
 **Download:** the Windows installer is under [Releases](../../releases). It includes the *RetroSeq Reference Manual* and the *Kosmische Manual* (also in `Installer/Manual`).
 
-RetroSeq is free. Donations are welcome via PayPal: **michael.ostman@gmail.com**
+RetroSeq is free.
 
 ## Kosmische (K)
 
