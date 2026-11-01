@@ -233,4 +233,4 @@ RetroSeq and Kosmische are free software: you can redistribute them and/or modif
 
 RetroSeq is built with [JUCE](https://juce.com) 8, used under the AGPLv3. VST is a registered trademark of Steinberg Media Technologies GmbH; ASIO is a trademark of Steinberg Media Technologies GmbH.
 
-RetroSeq is free. Donations are welcome via PayPal: **michael.ostman@gmail.com**
+RetroSeq is free. Donations are welcome via PayPal:
